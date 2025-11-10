@@ -1,7 +1,17 @@
+body,
+html {
+  margin: 0;
+  padding: 0;
+}
+
 .facilidades {
   color: #daff01;
 }
 
 .ver-mais {
+  background-color: #9353ff;
+}
+
+.enviar {
   background-color: #9353ff;
 }
